@@ -151,7 +151,7 @@ h1 {
 }
 .match:hover
 {
-  cursor: grab;
+  cursor: pointer;
 }
 .t-h1
 {
